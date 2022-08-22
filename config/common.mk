@@ -227,3 +227,5 @@ include vendor/lineage/config/version.mk
 
 -include $(WORKSPACE)/build_env/image-auto-bits.mk
 -include vendor/lineage/config/partner_gms.mk
+
+-include vendor/lineage/overlay/overlays.mk
